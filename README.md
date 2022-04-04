@@ -7,9 +7,6 @@ If you're new to poker, having someone who knows how to play around can help to 
 
 https://www.pokernews.com/poker-rules/texas-holdem.htm
 
-If your using a linux system, you can download these source files into a new folder and run the makefile to play.
-If your using a windows system and you have access to an IDE, you can download these source files into it and run it from there.
-
 The class that runs the game is PlayPoker.java
 
 Other classes I'd like to highlight
