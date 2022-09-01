@@ -3,19 +3,13 @@ Welcome to Patrick's Poker Player! A java based Texas Hold'em style poker simula
 
 I started this project after I learned about Object Oriented Programming and my friends and I started moving our monthly poker games online from the pandemic.
 The core of this project is not the UI (which is text based) or the poker bots (which are psuedo-random) but rather to show competence in larger multi-class projects that runs a complex driver program correctly.
+
+I created a video to showcase the project and you can watch it here!
+https://www.youtube.com/watch?v=R0eRANBjn6o
+
+
+
 If you're new to poker, having someone who knows how to play around can help to undertsand the program or if you'd like to check it out here's a link.
-
 https://www.pokernews.com/poker-rules/texas-holdem.htm
-
-The class that runs the game is PlayPoker.java
-
-Other classes I'd like to highlight
-1) FindHand.java - takes between two and seven cards and determines the type of hand present (Pair, flush, ect.)
-2) Player.java - a poker player that has a very, very, rudimentary poker bot to play against
-3) Deck.java - represents a deck of cards, check out the unbiased shuffling algorithm!
-4) PokerTable.java - represents a poker table of players with updating positions
-5) Card.java - comprises a deck, can be constructed to be any size
-
-all other classes are small enum classes like Suit.java (Spades, clubs...) or Value.java (two, three, ... king ace)
 
 Good Luck!
